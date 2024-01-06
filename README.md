@@ -1,1 +1,1 @@
-# SAMAVIA-demo
+# Samavia-demo
